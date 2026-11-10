@@ -56,17 +56,17 @@ Both **ss** and **ß** make the exact same sharp "s" sound (like the _ss_ in _hi
 - **Use `ß` after a TWO-VOWEL combo (`ei`, `au`, `äu`):** Whenever two vowels team up, they are naturally long, so always use `ß`. _(Example: Fleiß [diligence])._
 - **Rule of thumb:** A word can **never** start with **ß**.
 
-#### Compare _ss_ (Short Vowel) vs. _ß_ (Long Vowel / Diphthong) _(Click words to hear direct German audio via Forvo)_
+#### Compare _ss_ (Short Vowel) vs. _ß_ (Long Vowel / Diphthong) _(Click words to hear native audio via DeepL)_
 
-| Short Vowel (_ss_)                                          | Long Vowel / Diphthong (_ß_)                                                  | Example Sentence for Memory                                                                      |
-| :---------------------------------------------------------- | :---------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------- |
-| **[Kuss](https://forvo.com/word/kuss/lang/de/)** (kiss)     | **[Gruß](https://forvo.com/word/gru%C3%9F/lang/de/)** (greeting)              | _Einen schönen **Gruß** und einen **Kuss**!_ (A nice greeting and a kiss!)                       |
-| **[floss](https://forvo.com/word/floss/lang/de/)** (flowed) | **[Floß](https://forvo.com/word/flo%C3%9F/lang/de/)** (raft)                  | _Das **Floß** **floss** auf dem Wasser._ (The raft floated/flowed on the water.)                 |
-| **[blass](https://forvo.com/word/blass/lang/de/)** (pale)   | **[fraß](https://forvo.com/word/fra%C3%9F/lang/de/)** (ate - animal)          | _Der Hund **fraß** alles, das Kind war **blass**._ (The dog ate everything, the child was pale.) |
-| **[muss](https://forvo.com/word/muss/lang/de/)** (must)     | **[Fuß](https://forvo.com/word/fu%C3%9F/lang/de/)** (foot)                    | _Ich **muss** zu **Fuß** gehen._ (I must go on foot.)                                            |
-| —                                                           | **[Fleiß](https://forvo.com/word/sorgfalt/lang/de/)** (diligence)             | _Er arbeitet mit viel **Fleiß**._ (He works with great diligence.)                               |
-| —                                                           | **[Strauß](https://forvo.com/word/strau%C3%9F/lang/de/)** (bouquet / ostrich) | _Sie kauft einen **Strauß** Blumen._ (She buys a bouquet of flowers.)                            |
-| —                                                           | **[äußern](https://forvo.com/word/%C3%A4u%C3%9Fern/lang/de/)** (to express)   | _Darf ich einen Wunsch **äußern**?_ (May I express a wish?)                                      |
+| Short Vowel (_ss_)                                                 | Long Vowel / Diphthong (_ß_)                                                         | Example Sentence for Memory                                                                      |
+| :----------------------------------------------------------------- | :----------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------- |
+| **[Kuss](https://www.deepl.com/translator#de/en/Kuss)** (kiss)     | **[Gruß](https://www.deepl.com/translator#de/en/Gru%C3%9F)** (greeting)              | _Einen schönen **Gruß** und einen **Kuss**!_ (A nice greeting and a kiss!)                       |
+| **[floss](https://www.deepl.com/translator#de/en/floss)** (flowed) | **[Floß](https://www.deepl.com/translator#de/en/Flo%C3%9F)** (raft)                  | _Das **Floß** **floss** auf dem Wasser._ (The raft floated/flowed on the water.)                 |
+| **[blass](https://www.deepl.com/translator#de/en/blass)** (pale)   | **[fraß](https://www.deepl.com/translator#de/en/fra%C3%9F)** (ate - animal)          | _Der Hund **fraß** alles, das Kind war **blass**._ (The dog ate everything, the child was pale.) |
+| **[muss](https://www.deepl.com/translator#de/en/muss)** (must)     | **[Fuß](https://www.deepl.com/translator#de/en/Fu%C3%9F)** (foot)                    | _Ich **muss** zu **Fuß** gehen._ (I must go on foot.)                                            |
+| —                                                                  | **[Fleiß](https://www.deepl.com/translator#de/en/Fleiß)** (diligence)                | _Er arbeitet mit viel **Fleiß**._ (He works with great diligence.)                               |
+| —                                                                  | **[Strauß](https://www.deepl.com/translator#de/en/Strau%C3%9F)** (bouquet / ostrich) | _Sie kauft einen **Strauß** Blumen._ (She buys a bouquet of flowers.)                            |
+| —                                                                  | **[äußern](https://www.deepl.com/translator#de/en/%C3%A4u%C3%9Fern)** (to express)   | _Darf ich einen Wunsch **äußern**?_ (May I express a wish?)                                      |
 
 ---
 
